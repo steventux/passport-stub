@@ -6,8 +6,5 @@
   "keywords"       : ["passport", "stub", "test"],
   "author"         : "Guilherme J. Tramontina <guilherme.tramontina@gmail.com>",
   "repository"     : "git://github.com/gtramontina/passport-stub.git",
-  "main"           : "index.coffee",
-  "dependencies"   : {
-    "coffee-script": "1.6"
-  }
+  "main"           : "index.js"
 }
