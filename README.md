@@ -1,5 +1,7 @@
 # passport-stub
 
+This is a generated Javascript version of Guilherme J. Tramontina's [@gtramontina](https://github.com/gtramontina) [passport-stub](https://github.com/gtramontina/passport-stub).
+
 Passport.js stub for testing. | Based on Jonathon Kresner's ([@jkresner](https://github.com/jkresner)) [post](http://hackerpreneurialism.com/post/48344246498/node-js-testing-mocking-authenticated-passport-js).
 
 Written with the idea of being simple to use.
