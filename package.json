@@ -5,6 +5,6 @@
 
   "keywords"       : ["passport", "stub", "test"],
   "author"         : "Guilherme J. Tramontina <guilherme.tramontina@gmail.com>",
-  "repository"     : "git://github.com/gtramontina/passport-stub.git",
+  "repository"     : "git://github.com/steventux/passport-stub.git",
   "main"           : "index.js"
 }
