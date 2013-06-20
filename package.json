@@ -1,10 +1,10 @@
 {
-  "name"           : "passport-stub",
-  "version"        : "0.1.4",
+  "name"           : "passport-stub-js",
+  "version"        : "0.1.0",
   "description"    : "Passport.js stub for testing.",
 
   "keywords"       : ["passport", "stub", "test"],
-  "author"         : "Guilherme J. Tramontina <guilherme.tramontina@gmail.com>",
+  "author"         : "Steve Laing <steve.laing@gmail.com>, Guilherme J. Tramontina <guilherme.tramontina@gmail.com>",
   "repository"     : "git://github.com/steventux/passport-stub.git",
   "main"           : "index.js"
 }
