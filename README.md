@@ -6,6 +6,10 @@ Passport.js stub for testing. | Based on Jonathon Kresner's ([@jkresner](https:/
 
 Written with the idea of being simple to use.
 
+## Install
+
+`$npm install passport-stub-js`
+
 ## Usage
 I've been writing my [Express](http://expressjs.com/) API tests with [Mocha](http://visionmedia.github.io/mocha/) and [Supertest](https://github.com/visionmedia/supertest), so here is an example:
 
