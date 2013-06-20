@@ -20,13 +20,13 @@ req = request(app);
 describe('GET /admin', function() {
 
   it('responds with 401 if not logged in', function(done){
-    req.get('/admin').expect(401).end();
+    req.get('/admin').expect(401);
     done();
   });
 
   it('responds with 200 when logged in', function(done){
     passportStub.login({username: 'john.doe'});
-    req.get('/admin').expect(200).end();
+    req.get('/admin').expect(200);
     done();
   });
 });
